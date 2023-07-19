@@ -278,8 +278,7 @@ int main()
 
 
 
-//OUTPUT :-
-
+/*OUTPUT :-
 
 
 enter no. of student : 15
@@ -590,5 +589,5 @@ sgpa	name	roll_no
 8	Ayan	1
 
 7	Sonali	4
-
 do you want to continue ?(Y/N)n
+*/
